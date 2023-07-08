@@ -1,0 +1,149 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/L.png"
+  },
+  "navigation": [
+    {
+      "name": "Productos",
+      "href": "product"
+    },
+    {
+      "name": "Novedades",
+      "href": "features"
+    },
+    
+
+    {
+      "name": "Quienes somos",
+      "href": "features"
+
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToActio": {
+    "name": "Tienda",
+    "title":"Tienda",
+    "text": "Tienda",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "La Tienda del Waska",
+    "subtitle": "Bienvenidos",
+    "description": "Los mejores productos al mejor precio, encuentranos en la ciudad de Trujillo",
+    "img": "/assets/images/martin-katler-Y4fKN-RlMV4-unsplash.jpg",
+    "primaryAction": {
+      "text": "Mira nuestro catalogo",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "o envianos un email",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "React landing page PROYECTO",
+    "items": [
+      {
+        "title": "A plug n play ",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "AQUI VA TEXTO!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "calidad de producto 1",
+        "description": "AQUI VA TEXTO.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "calidad de producto 2",
+        "description": "TAQUI VA TEXTO.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Calidad de producto 3",
+        "description": "AQUI VA TEXTO.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "calidad de producto 4",
+        "description": "AQUI VA TEXTO.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "TOP 3",
+    "items": [
+      {
+        "name": "Camiseta Alianza Lima",
+        "price": "Camiseta Alianza Lima",
+        "priceDetails": "",
+        "img": "/assets/images/L.png",
+
+        "features": [
+        
+        ]
+      },
+      {
+        "name": "Camiseta Alianza Lima",
+        "price": "Camiseta Alianza Lima",
+        "priceDetails": "",
+        "features": [
+        
+        ]
+      },
+      {
+        "name": "Camiseta Alianza Lima",
+        "price": "Camiseta Alianza Lima",
+        "priceDetails": "",
+        "features": [
+        
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "",
+      "twitter": "",
+      "linkedin": ""
+    }
+  }
+}
